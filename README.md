@@ -1,6 +1,6 @@
-1) Gathering the requirement about project.
+1)Gathering the requirement about project.
 
-2) Designing the desktop model for project using requirement. 
+2)Designing the desktop model for project using requirement. 
 
 3)Designing the user interface for user of our quiz management. 
 
