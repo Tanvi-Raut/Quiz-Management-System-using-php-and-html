@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{
+            background-image: url('quiz2.jpg');
+            background-size: cover;          
+        }
+        
+    </style>
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Login</h2>
+        <form action="login_php.php" method="post">
+            <label for="username">Username:</label>
+            <input type="text" name="username" required><br><br>
+            
+            <label for="password">Password:</label>
+            <input type="password" name="password" required><br><br>
+            
+            <input type="submit" value="Login">
+
+        </form>
+        <p>Don't have an account ? <a href ="registration_form.html">Register Here</a></p>   
+    </div>
+</body>
+</html>
